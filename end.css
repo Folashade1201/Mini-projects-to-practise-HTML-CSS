@@ -1,0 +1,60 @@
+ body {
+    width: 1440px;
+    background-color: cornsilk ;
+}
+.fave {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: white;
+    border-radius: 20px;
+    width: 600px;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.hello {
+    text-align: center;
+}
+
+.me {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+ }
+ .to {
+font-family: Impact, 'Arial Narrow Bold', sans-serif;
+font-size: 25px;
+
+ }
+
+ .is {
+    font-family: system-ui,  'Segoe UI',  'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align:initial;
+    line-height: 1.5em;
+    color: black;
+ }
+
+ .was {
+    font-size: 25pt;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    text-align: initial;
+ }
+
+ .are, a {
+    text-decoration: none;
+    background-color: green;
+    width: 150px;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px 23px;
+    padding-top: 5px 5px;
+    margin: auto;
+    
+   
+ }
+
+ img {
+   border-radius: 10px 0 0 10px;
+ }

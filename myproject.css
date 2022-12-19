@@ -1,0 +1,268 @@
+#standoutline {
+	background-color: navy;
+	height: 35px;
+	font-size: 25px;
+	font-weight: bold;
+	font: tahoma;
+}
+
+p {
+	font-size:30px;
+	font-style: bold;
+	font-family: times new roman;
+	color: black;
+	text-align: center;
+	border: solid 1px black;
+    height: 80px;
+    padding: 20px;
+    margin-top: 0;
+    margin-right: 0;
+}
+#standoutline2 {
+	background-color: black;
+	height: 500px;
+	font-size: 25px;
+	font-weight: bold;
+	font: tahoma;
+	padding: 10px
+}
+
+#standoutline2 p {
+	color: white;
+	font-size: 40px;
+	padding: 200px;
+}
+
+#standoutline3 {
+	background: #008ECC;
+	font-size: 25px;
+	font-weight: bold;
+	font: tahoma;
+	 linear-gradient (red,pink);
+}
+
+#standoutline3 h3 {
+	color: white;
+	margin: 50px;
+	padding: 40px;
+}
+
+.middle {
+	text-align: center;
+}
+.button {
+	background: yellow;
+	border-radius: 10px;
+	border: 4px solid yellow;
+	height: 30px;
+	line-height: 28px;
+	text-decoration: none;
+	padding: 0 20px;
+	margin: 550px;
+	
+    
+}
+
+#box1,#box2,#box3,#box4,#box5,#box6,#box7 {
+	
+	height: 40px;
+	background-color: grey;
+	margin: 10px;
+    padding: 10px;
+    color: white;
+}
+.class {
+	color: black;
+	height: 400px;
+}
+
+#bond {
+
+	display: grid;
+	grid-template-columns: auto 1fr;
+	grid-gap: 40px;
+}
+
+.box-header {
+	margin-bottom: 60px;
+}
+
+#boxa {
+	height: 40px;
+	border: 2px solid skyblue;
+	border-radius: 5px;
+	margin-top: 10px;
+	padding: 10px;
+}
+
+#rollbox1 {
+	background-color: darkblue;
+	height: 300px;
+	width: 300px;
+	padding: 30px;
+    color: white;
+    padding-bottom: 5px;
+    margin: 10px;
+     float: left;
+   
+
+   
+}
+#rollbox2 {
+	background-color: darkblue;
+	height: 300px;
+	width: 300px;
+	padding: 30px;
+    color: white;
+    padding-bottom: 5px;
+    margin: 10px;
+    float: left;
+   
+}
+#rollbox3 {
+	background-color: darkblue;
+	height: 300px;
+	width: 300px;
+	padding: 30px;
+    color: white;
+    padding-bottom: 5px;
+    margin: 10px;
+    float: left;
+   
+   
+}
+#rollbox4 {
+	background-color: darkblue;
+	height: 300px;
+	width: 300px;
+	padding: 30px;
+    color: white;
+    padding-bottom: 5px;
+    margin: 10px;
+    float: left;
+   
+}
+
+.lastbox {
+	color: red;
+	height: 600px;
+	background-color: black;
+	clear: both;
+
+
+}
+
+.random {
+	text-align: center;
+}
+#footer {
+	background-color:rgba(0, 0, 0, 0.849);
+	height: 400px;
+	margin-top: 70px; 
+	display: grid;
+	padding-top: 20px;
+	grid-template-columns: 1fr 3fr;
+	
+
+}
+
+#footer ul {
+	list-style-type: none;
+	margin: 20px;
+
+} 
+
+.whitetext {
+	color: white;
+	font-size: 20px;
+}
+
+.remove, a {
+	text-decoration: none;
+	color: white;
+}
+
+
+
+#lastcard {
+	float: right;
+	background-color: brown;
+	display: inline;
+}
+
+.plus {
+	float: right;
+	cursor: pointer;
+	color: black;
+}
+
+
+
+.plus1 {
+	float: left;
+	cursor: pointer;
+	color: black;
+	margin: 5px;
+	padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+.enjoy{
+	margin: 600px;
+	margin-top: 30px;
+	background-color: slateblue;
+	color: white;
+	text-align: center;
+}
+
+.mine {
+	text-decoration: none;
+	background-color: royalblue;
+	color: white;
+	padding: 10px 150px;
+	font-size: 15px;
+	font-weight: normal;
+	border: none;
+}
+.yours{
+	text-decoration: none;
+	background-color: royalblue;
+	color: white;
+	padding: 10px 30px;
+	font-size: 15px;
+	font-weight: normal;
+	border: none;
+}
